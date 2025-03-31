@@ -2,6 +2,9 @@
 
 This is a Nike landing page created using **Vite** and **Tailwind CSS** as part of my frontend development practice.
 
+![Image](https://github.com/user-attachments/assets/0dde1976-e734-4305-8694-3489632f8d61)
+![Image](https://github.com/user-attachments/assets/f12ac407-c674-47ae-bd5f-f746a21c1df5)
+
 ## 🚀 Technologies Used
 
 - **Vite** - Fast and modern frontend tooling
