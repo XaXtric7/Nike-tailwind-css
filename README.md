@@ -1,4 +1,4 @@
-# Nike Landing Page
+# ✓ Nike Landing Page ⚽🏟🥅
 
 This is a Nike landing page created using **Vite** and **Tailwind CSS** as part of my frontend development practice.
 
